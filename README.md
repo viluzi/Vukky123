@@ -4,8 +4,9 @@
 - 😄 Pronouns: He/him
 
 #### Projects I've made
-- ResourceHub, the modding hub for the Desktop Goose
-- MeadowLand, the modding hub for the Desktop Meadow
+- UnofficialSamHub, the place to find hubs for projects made by SamPerson
+- - ResourceHub, the modding hub for the Desktop Goose
+- - MeadowLand, the modding hub for the Desktop Meadow
 - htmlpet, a virtual pet in your browser
 
 <!--
