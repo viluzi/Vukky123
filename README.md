@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there - I'm Vukky 👋
 
 - 🛠 I made the ResourceHub project for the Desktop Goose!
 - 😄 Pronouns: He/him
