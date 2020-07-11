@@ -6,6 +6,7 @@
 #### Projects I've made
 - ResourceHub, the modding hub for the Desktop Goose
 - MeadowLand, the modding hub for the Desktop Meadow
+- htmlpet, a virtual pet in your browser
 
 <!--
 **Vukky123/Vukky123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
