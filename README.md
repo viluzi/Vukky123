@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🛠 I made the ResourceHub project for the Desktop Goose!
+- 😄 Pronouns: He/him
+
 <!--
 **Vukky123/Vukky123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
