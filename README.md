@@ -1,7 +1,7 @@
 ### Hi there - I'm Vukky 👋
 
 - 🛠 I made the ResourceHub project for the Desktop Goose!
-- 💼 I'm a Support Assistant at salad.io
+- 💼 I'm a Support Assistant at [salad.io](https://salad.io)
 - 😄 Pronouns: He/him
 
 <!--
