@@ -1,8 +1,11 @@
 ### Hi there - I'm Vukky 👋
 
-- 🛠 I made the ResourceHub project for the Desktop Goose!
 - 💼 I'm a Support Assistant at [salad.io](https://salad.io)
 - 😄 Pronouns: He/him
+
+#### Projects I've made
+- ResourceHub, the modding hub for the Desktop Goose
+- MeadowLand, the modding hub for the Desktop Meadow
 
 <!--
 **Vukky123/Vukky123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
