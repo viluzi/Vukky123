@@ -1,10 +1,7 @@
 ### Hi there - I'm Vukky 👋
 
 - 💼 I'm a Support Assistant at [salad.io](https://salad.io)
-- ⚡ Fun fact: The ResourceHub website has over 52,000 users.
 - 😄 Pronouns: He/him
-
-#### [Some of the projects I've made/worked on](https://vukky123.github.io/Vukky123/projects)
 
 <!--
 **Vukky123/Vukky123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
