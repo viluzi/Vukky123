@@ -1,3 +1,5 @@
+![I am not a girl](https://i.imgur.com/M0o6z02.png)
+
 ### Hi there - I'm Vukky 👋
 
 - 💼 I'm a Support Assistant at [salad.io](https://salad.io)
