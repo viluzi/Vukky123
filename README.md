@@ -14,7 +14,15 @@
 <details>
   <summary>Show me your stats!</summary>
   
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vukky123&theme=dark&show_icons=true)
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vukky123&theme=dark&show_icons=true) 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vukky123&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</details>
+
+<details>
+  <summary>Show me some of your cool repos!</summary>
+  
+  [![Desktop Goose ResourceHub](https://github-readme-stats.vercel.app/api/pin/?username=DesktopGooseUnofficial&repo=ResourceHub&theme=dark&show_icons=true)](https://github.com/DesktopGooseUnofficial/ResourceHub)
+  [![Desktop Goose ResourceHub Launcher](https://github-readme-stats.vercel.app/api/pin/?username=DesktopGooseUnofficial&repo=launcher&theme=dark&show_icons=true)](https://github.com/DesktopGooseUnofficial/launcher)
 </details>
 
 <!--
