@@ -1,13 +1,21 @@
 ### It's me, Vukky!
 
-<details>
-  <summary>How many people have visited me?</summary>
-  
-  ![Visitor counter](http://profile-counter.glitch.me/Vukky123/count.svg) people have visited so far.
-</details>
-
 - 💼 I'm a Support Assistant at [salad.io](https://salad.io)
 - 😄 Pronouns: He/him
+
+#### Any questions?
+
+<details>
+  <summary>How many people have visited you?</summary>
+  
+  ![Visitor counter](http://profile-counter.glitch.me/Vukky123/count.svg) people have visited me so far.
+</details>
+
+<details>
+  <summary>Show me your stats!</summary>
+  
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vukky123&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 
 <!--
 **Vukky123/Vukky123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
