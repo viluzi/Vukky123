@@ -2,6 +2,7 @@
 
 - 💼 I'm a Support Assistant at [salad.io](https://salad.io)
 - 😄 Pronouns: He/him
+- 🛠 I created things like [Desktop Goose ResourceHub](https://github.com/DesktopGooseUnofficial/ResourceHub) and [Salad Mobile](https://github.com/VukkyLtd/salad-mobile)!
 
 #### Any questions?
 
