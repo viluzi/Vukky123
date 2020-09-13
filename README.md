@@ -14,7 +14,7 @@
 <details>
   <summary>Show me your stats!</summary>
   
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vukky123&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vukky123&theme=dark&show_icons=true)
 </details>
 
 <!--
