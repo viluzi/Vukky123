@@ -1,6 +1,10 @@
-![I am not a girl](https://i.imgur.com/M0o6z02.png)
+### It's me, Vukky!
 
-### Hi there - I'm Vukky 👋
+<details>
+  <summary>How many people have visited me?</summary>
+  
+  ![Visitor counter](http://profile-counter.glitch.me/Vukky123/count.svg) people have visited so far.
+</details>
 
 - 💼 I'm a Support Assistant at [salad.io](https://salad.io)
 - 😄 Pronouns: He/him
