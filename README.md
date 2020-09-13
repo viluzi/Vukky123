@@ -6,11 +6,9 @@
 
 #### Any questions?
 
-<details>
-  <summary>How many people have visited you?</summary>
-  
-  ![Visitor counter](http://profile-counter.glitch.me/Vukky123/count.svg) people have visited me so far.
-</details>
+How many people have visited you?
+
+![Visitor counter](http://profile-counter.glitch.me/Vukky123/count.svg) people have visited me so far.
 
 <details>
   <summary>Show me your stats!</summary>
