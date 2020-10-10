@@ -19,7 +19,7 @@ How many people have visited you?
 <details>
   <summary>Show me some of your cool repos!</summary>
   
-  [![my website](https://github-readme-stats.vercel.app/api/pin/?username=indiefinity&repo=website&theme=dark&show_icons=true)](https://github.com/indiefinity/website)
+  [![my website](https://github-readme-stats.vercel.app/api/pin/?username=viluzi&repo=website&theme=dark&show_icons=true)](https://github.com/viluzi/website)
   
 
 <!--
