@@ -19,9 +19,8 @@ How many people have visited you?
 <details>
   <summary>Show me some of your cool repos!</summary>
   
-  [![Desktop Goose ResourceHub](https://github-readme-stats.vercel.app/api/pin/?username=DesktopGooseUnofficial&repo=ResourceHub&theme=dark&show_icons=true)](https://github.com/DesktopGooseUnofficial/ResourceHub)
-  [![Desktop Goose ResourceHub Launcher](https://github-readme-stats.vercel.app/api/pin/?username=DesktopGooseUnofficial&repo=launcher&theme=dark&show_icons=true)](https://github.com/DesktopGooseUnofficial/launcher)
-</details>
+  [![my website](https://github-readme-stats.vercel.app/api/pin/?username=indiefinity&repo=website&theme=dark&show_icons=true)](https://github.com/indiefinity/website)
+  
 
 <!--
 **viluzi/viluzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
