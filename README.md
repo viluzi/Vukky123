@@ -1,5 +1,5 @@
 ### It's me, vtheskeleton!
-
+- I write spaghetti code!
 - 😄 Pronouns: He/him
 - 🛠 I worked on things like [VukkyBot](https://github.com/vukkyltd/vukkybot)!
 
