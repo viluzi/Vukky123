@@ -1,20 +1,19 @@
-### It's me, Vukky!
+### It's me, vtheskeleton!
 
-- 💼 I'm a Support Assistant at [salad.io](https://salad.io)
 - 😄 Pronouns: He/him
-- 🛠 I created things like [Desktop Goose ResourceHub](https://github.com/DesktopGooseUnofficial/ResourceHub) and [Salad Mobile](https://github.com/VukkyLtd/salad-mobile)!
+- 🛠 I worked on things like [VukkyBot](https://github.com/vukkyltd/vukkybot)!
 
 #### Any questions?
 
 How many people have visited you?
 
-![Visitor counter](http://profile-counter.glitch.me/Vukky123/count.svg) people have visited me so far.
+![Visitor counter](http://profile-counter.glitch.me/viluzi/count.svg) people have visited me so far.
 
 <details>
   <summary>Show me your stats!</summary>
   
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vukky123&theme=dark&show_icons=true) 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vukky123&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=viluzi&theme=dark&show_icons=true) 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viluzi&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 <details>
@@ -25,7 +24,7 @@ How many people have visited you?
 </details>
 
 <!--
-**Vukky123/Vukky123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**viluzi/viluzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
