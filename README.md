@@ -1,28 +1,20 @@
 ### It's me, Vukky!
 
 - 💼 I'm a Support Assistant at [salad.io](https://salad.io)
+- 🔭 I’m currently working on VukkyBot
+- 🌱 I’m currently learning JavaScript
 - 😄 Pronouns: He/him
-- 🛠 I created things like [Desktop Goose ResourceHub](https://github.com/DesktopGooseUnofficial/ResourceHub) and [Salad Mobile](https://github.com/VukkyLtd/salad-mobile)!
+- 🛠 I created things like [Desktop Goose ResourceHub](https://github.com/DesktopGooseUnofficial/ResourceHub) and [Salad Mobile](https://github.com/VukkyLtd/salad-mobile)
 
-#### Any questions?
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/ryanlanciaux/count.svg" alt="" /></td>
+  </tr>
+</table>
 
-How many people have visited you?
-
-![Visitor counter](http://profile-counter.glitch.me/Vukky123/count.svg) people have visited me so far.
-
-<details>
-  <summary>Show me your stats!</summary>
-  
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vukky123&theme=dark&show_icons=true) 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vukky123&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-</details>
-
-<details>
-  <summary>Show me some of your cool repos!</summary>
-  
-  [![Desktop Goose ResourceHub](https://github-readme-stats.vercel.app/api/pin/?username=DesktopGooseUnofficial&repo=ResourceHub&theme=dark&show_icons=true)](https://github.com/DesktopGooseUnofficial/ResourceHub)
-  [![Desktop Goose ResourceHub Launcher](https://github-readme-stats.vercel.app/api/pin/?username=DesktopGooseUnofficial&repo=launcher&theme=dark&show_icons=true)](https://github.com/DesktopGooseUnofficial/launcher)
-</details>
+#### Credits
+[https://github.com/ryanlanciaux/ryanlanciaux](ryanlanciaux) for the visitor counter
 
 <!--
 **Vukky123/Vukky123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
